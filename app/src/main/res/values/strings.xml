@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="centimeter">Centimeter</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="conversions_made_easy">Conversions Made Easy!!</string>
+    <string name="meters">Meters</string>
+    <string name="miles">Miles</string>
+    <string name="thank_you_for_using_my_app">Thank You for Using My App :)</string>
+    <string name="kilogram_to_grams">Kilogram to Grams</string>
+    <string name="kilometers_to_meters">Kilometers to Meters</string>
+    <string name="output">Output</string>
+    <string name="litres_to_mili_litres">Litres to Mili-litres</string>
+    <string name="kilometres_to_miles">Kilometres to Miles</string>
+    <string name="centimeters_to_meters">centimeters to meters</string>
+    <string name="conversions_made_easy_by_pratik">Conversions Made Easy!! : By Pratik</string>
+    <string name="centmetres_to_metres">Centmetres to Metres</string>
+</resources>
